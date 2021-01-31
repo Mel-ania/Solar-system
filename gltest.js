@@ -1,4 +1,4 @@
-// MELANIA GOTTARDO 874240 - Sistema solare
+// MELANIA GOTTARDO - Sistema solare
 //Nota: mi sono presa la libertà di utilizzare OrbitsControl.js all'html per poter
 // usare il mouse per muovere la camera. Andando a commentare le righe che vi
 // fanno riferimento, il codice comunque funziona normalmente.
